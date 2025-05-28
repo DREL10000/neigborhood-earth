@@ -6,6 +6,8 @@
 
 Scientists agree that to avoid the worst impacts, we must limit global warming to 1.5°C — yet current policies could lead us to as much as 3.1°C of warming by the end of the century.
 
+Check out the official [United Nations Climate Change Article](https://www.un.org/en/climatechange/what-is-climate-change)
+
 To meet this challenge, we need more than just policy — we need people-powered change.
 
 Project Neighborhood Earth is a platform designed to:
@@ -17,3 +19,16 @@ Project Neighborhood Earth is a platform designed to:
 - Crowdfund eco-friendly ideas and projects, empowering everyday people to make a difference
 
 By turning climate awareness into community action, we aim to grow a global neighborhood of change-makers — one good deed at a time.
+
+## Key Functional Requirements for the MVP
+
+- Search and post neighborhood activities (Snaps) by location
+- Project creation (Eco Missions): Users can create, manage and display their projects with essential details and image in order to raise funds
+- Payments: Users can browse and donate to a project an amount of their choosing
+- User Authentication: Secure login and registration process for users
+
+## Use Case Diagram
+
+Below is a visual representation of how the user interacts with the system
+
+![Alt Text](neighor-use-case.png)
