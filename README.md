@@ -31,4 +31,4 @@ By turning climate awareness into community action, we aim to grow a global neig
 
 Below is a visual representation of how the user interacts with the system
 
-![Alt Text](neighor-use-case.png)
+![neighborhood earth use case diagram](./neighbor-use-case.png)
